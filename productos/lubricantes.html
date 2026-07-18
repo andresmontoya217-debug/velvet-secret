@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Lubricantes | Velvet Secret</title>
+
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+    <!-- ENCABEZADO -->
+    <header class="header-catalogo">
+
+        <a href="../index.html" class="logo-catalogo">
+            Velvet Secret
+        </a>
+
+        <nav class="nav-catalogo">
+            <a href="../index.html">Inicio</a>
+            <a href="#productos">Productos</a>
+            <a href="#como-comprar">Cómo comprar</a>
+        </nav>
+
+    </header>
+
+
+    <!-- PORTADA -->
+    <section class="portada-categoria portada-lubricantes">
+
+        <div class="portada-categoria-contenido">
+
+            <span>Colección Velvet Secret</span>
+
+            <h1>Lubricantes</h1>
+
+            <p>
+                Productos diseñados para brindar mayor comodidad,
+                suavidad y una experiencia más agradable.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- CÓMO COMPRAR -->
+    <section class="como-comprar" id="como-comprar">
+
+        <h2>¿Cómo comprar?</h2>
+
+        <div class="pasos-compra">
+
+            <div class="paso-compra">
+                <span>1</span>
+
+                <h3>Elige tu producto</h3>
+
+                <p>
+                    Explora nuestra colección y selecciona el
+                    lubricante que mejor se adapte a tus necesidades.
+                </p>
+            </div>
+
+            <div class="paso-compra">
+                <span>2</span>
+
+                <h3>Ábrelo</h3>
+
+                <p>
+                    Presiona "Ver producto" para conocer sus
+                    características y presentación.
+                </p>
+            </div>
+
+            <div class="paso-compra">
+                <span>3</span>
+
+                <h3>Toma una captura</h3>
+
+                <p>
+                    La captura incluirá el nombre,
+                    referencia y precio.
+                </p>
+            </div>
+
+            <div class="paso-compra">
+                <span>4</span>
+
+                <h3>Envíala por WhatsApp</h3>
+
+                <p>
+                    Confirmaremos disponibilidad y resolveremos
+                    cualquier duda.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- CATÁLOGO -->
+    <main class="catalogo-productos" id="productos">
+
+        <div class="encabezado-productos">
+
+            <span>Nuestra colección</span>
+
+            <h2>Mayor comodidad</h2>
+
+            <p>
+                Explora las diferentes opciones de lubricantes
+                disponibles.
+            </p>
+
+        </div>
+
+
+        <!-- FILTROS -->
+        <div class="filtros-productos">
+
+            <button
+                class="filtro activo"
+                data-filtro="todos"
+                type="button"
+            >
+                Todos
+            </button>
+
+            <button
+                class="filtro"
+                data-filtro="base-agua"
+                type="button"
+            >
+                Base agua
+            </button>
+
+            <button
+                class="filtro"
+                data-filtro="base-silicona"
+                type="button"
+            >
+                Base silicona
+            </button>
+
+            <button
+                class="filtro"
+                data-filtro="calor"
+                type="button"
+            >
+                Efecto calor
+            </button>
+
+            <button
+                class="filtro"
+                data-filtro="frio"
+                type="button"
+            >
+                Efecto frío
+            </button>
+
+            <button
+                class="filtro"
+                data-filtro="sabores"
+                type="button"
+            >
+                Sabores
+            </button>
+
+            <button
+                class="filtro"
+                data-filtro="especiales"
+                type="button"
+            >
+                Especiales
+            </button>
+
+        </div>
+
+
+        <!-- PRODUCTOS -->
+        <section
+            class="grid-productos"
+            id="contenedorProductos">
+        </section>
+
+    </main>
+
+
+    <!-- MODAL -->
+    <div
+        class="modal-producto"
+        id="modalProducto"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="modalNombre">
+
+        <div class="modal-contenido">
+
+            <button
+                class="cerrar-modal"
+                id="cerrarModal"
+                type="button"
+                aria-label="Cerrar">
+                ×
+            </button>
+
+
+            <div class="modal-galeria">
+
+                <div class="modal-imagen">
+
+                    <img
+                        src=""
+                        alt=""
+                        id="modalImagen">
+
+                </div>
+
+                <div
+                    class="galeria-producto"
+                    id="galeriaProducto">
+                </div>
+
+            </div>
+
+
+            <div class="modal-informacion">
+
+                <span class="modal-marca">
+                    Velvet Secret
+                </span>
+
+                <h2 id="modalNombre"></h2>
+
+                <p
+                    class="modal-codigo"
+                    id="modalCodigo">
+                </p>
+
+                <p
+                    class="modal-precio"
+                    id="modalPrecio">
+                </p>
+
+                <div class="instruccion-captura">
+
+                    <strong>
+                        ¿Te gustó este producto?
+                    </strong>
+
+                    <p>
+                        Toma una captura de esta pantalla y envíanosla
+                        por WhatsApp para confirmar disponibilidad.
+                    </p>
+
+                </div>
+
+                <a
+                    href="https://api.whatsapp.com/send?phone=573022657696&text=Hola%2C%20quiero%20consultar%20la%20disponibilidad%20de%20este%20lubricante."
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="boton-whatsapp"
+                    id="botonWhatsapp">
+
+                    Abrir WhatsApp
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- PIE DE PÁGINA -->
+    <footer class="footer-catalogo">
+
+        <h2>Velvet Secret</h2>
+
+        <p>
+            Elegancia, seguridad y estilo en cada detalle.
+        </p>
+
+        <p class="copyright">
+            © 2026 Velvet Secret
+        </p>
+
+    </footer>
+
+
+    <!-- JAVASCRIPT -->
+    <script src="../js/lubricantes.js"></script>
+    <script src="../js/script.js"></script>
+
+</body>
+
+</html>
