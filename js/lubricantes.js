@@ -29,4 +29,35 @@ window.listaProductos = [
         "../img/Productos/Lubricantes/6001.jpg"
     ]
 },
+     {
+    nombre: "Lubricante Elixir Sabores 30 ML",
+
+    referencia: "3858",
+
+    codigo: "3858",
+
+    precio: "$22.000",
+
+    categoria: "sabores",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: ["30 ML"],
+
+    descripcion:
+        "Lubricante Elixir de 30 ML disponible en diferentes sabores para elegir.",
+
+    caracteristicas: [
+        "Contenido: 30 ML.",
+        "Sabor sandía.",
+        "Sabor chicle.",
+        "Sabor fresa.",
+        "Sabor crema de whisky."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6002.jpg"
+        "../img/Productos/Lubricantes/6003.jpg"
+    ]
+},
 ];
