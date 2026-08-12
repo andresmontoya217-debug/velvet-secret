@@ -222,7 +222,7 @@ window.listaProductos = [
 
     precio: "$8.000",
 
-    categoria: "base-agua",
+    categoria: "especiales",
 
     nombreCategoria: "Lubricantes",
 
