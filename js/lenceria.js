@@ -2,7 +2,7 @@ window.listaProductos = [
     {
         nombre: "Cachetero combinado en tul y encaje",
         referencia: "414",
-        precio: "$13.000",
+        precio: "$14.000",
         categoria: "panties",
         nombreCategoria: "Panties",
         tallas: ["S", "M", "L", "XL"],
