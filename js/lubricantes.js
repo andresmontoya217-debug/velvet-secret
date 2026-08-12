@@ -272,4 +272,35 @@ window.listaProductos = [
         "../img/Productos/Lubricantes/6013.jpg"
     ]
 },
+    {
+    nombre: "Multiorgasmos Sachet Choco-Vainilla 7 ML",
+
+    referencia: "2744",
+
+    codigo: "2744",
+
+    precio: "$10.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Gel íntimo Multiorgasmos en sachet de 7 ML, a base de agua y con sensación térmica progresiva.",
+
+    caracteristicas: [
+        "Presentación en sachet de 7 ML.",
+        "A base de agua.",
+        "Sensación térmica progresiva que comienza con frío.",
+        "Diseñado para aumentar la sensibilidad.",
+        "Comestible.",
+        "Sabor choco-vainilla."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6014.jpg"
+    ]
+},
 ];
