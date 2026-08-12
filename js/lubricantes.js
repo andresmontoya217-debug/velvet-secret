@@ -56,8 +56,8 @@ window.listaProductos = [
     ],
 
     imagenes: [
-        "../img/Productos/Lubricantes/6002.jpg"
+        "../img/Productos/Lubricantes/6002.jpg",
         "../img/Productos/Lubricantes/6003.jpg"
     ]
-}
+},
 ];
