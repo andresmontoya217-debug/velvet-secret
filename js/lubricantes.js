@@ -180,4 +180,37 @@ window.listaProductos = [
         "../img/Productos/Lubricantes/6010.jpg"
     ]
 },
+    {
+    nombre: "Lubricante Íntimo Frío Cool Sensation 30 ML",
+
+    referencia: "3515",
+
+    codigo: "3515",
+
+    precio: "$26.000",
+
+    categoria: "frio",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante íntimo Cool Sensation con efecto frío inmediato y sensación refrescante, diseñado para proporcionar una lubricación suave y duradera.",
+
+    caracteristicas: [
+        "Presentación de 30 ML.",
+        "Efecto frío inmediato.",
+        "Sensación refrescante.",
+        "Textura ligera y deslizamiento natural.",
+        "Sabor mentolado.",
+        "No deja sensación pegajosa.",
+        "Compatible con preservativos y juguetes sexuales.",
+        "Lubricación suave y de larga duración."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6011.jpg"
+    ]
+},
 ];
