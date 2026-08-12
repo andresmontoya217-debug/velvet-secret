@@ -336,4 +336,35 @@ window.listaProductos = [
         "../img/Productos/Lubricantes/6015.jpg"
     ]
 },
+ {
+    nombre: "Hidratante Vaginal Sen Íntimo 7 ML",
+
+    referencia: "3878",
+
+    codigo: "3878",
+
+    precio: "$8.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Hidratante vaginal Sen Íntimo en sachet de 7 ML, formulado para ayudar con la resequedad y mantener la hidratación y el equilibrio de la zona íntima.",
+
+    caracteristicas: [
+        "Presentación en sachet de 7 ML.",
+        "Textura cremosa a base de agua.",
+        "Contiene caléndula, aloe vera, manzanilla, romero, hamamelis, bisabolol y ácido láctico.",
+        "Ayuda a mantener la hidratación de la zona íntima.",
+        "No contiene estrógenos.",
+        "Indicado por el fabricante para uso diario."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6016.jpg"
+    ]
+},   
 ];
