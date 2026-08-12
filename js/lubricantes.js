@@ -242,4 +242,34 @@ window.listaProductos = [
         "../img/Productos/Lubricantes/6012.jpg"
     ]
 },
+    {
+    nombre: "Lubricante Íntimo Anal Sachet 7 ML",
+
+    referencia: "2745",
+
+    codigo: "2745",
+
+    precio: "$8.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante íntimo anal en sachet de 7 ML, diseñado para proporcionar lubricación prolongada y mayor comodidad.",
+
+    caracteristicas: [
+        "Presentación en sachet de 7 ML.",
+        "Lubricación prolongada.",
+        "Diseñado para uso anal.",
+        "Aplicar una cantidad abundante en la zona externa y sobre el preservativo.",
+        "Reaplicar cuando sea necesario."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6013.jpg"
+    ]
+},
 ];
