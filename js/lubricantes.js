@@ -92,4 +92,92 @@ window.listaProductos = [
         "../img/Productos/Lubricantes/6007.jpg"
     ]
 },
+    {
+    nombre: "Lubricante Anal 30 ML",
+
+    referencia: "1972",
+
+    codigo: "1972",
+
+    precio: "$18.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante anal en presentación de 30 ML, diseñado para proporcionar mayor lubricación y comodidad.",
+
+    caracteristicas: [
+        "Presentación de 30 ML.",
+        "Lubricación para uso anal.",
+        "Aplicar una cantidad abundante en la zona externa y sobre el preservativo.",
+        "Se recomienda comenzar suavemente y aplicar nuevamente cuando sea necesario."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6008.jpg"
+    ]
+},
+    {
+    nombre: "Lubricante Sensitive Skin 100 ML",
+
+    referencia: "3849",
+
+    codigo: "3849",
+
+    precio: "$36.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante íntimo Sensitive Skin con ácido hialurónico, especialmente formulado para pieles sensibles y con tendencia a irritarse.",
+
+    caracteristicas: [
+        "Presentación de 100 ML.",
+        "Con ácido hialurónico.",
+        "Ideal para pieles sensibles.",
+        "Diseñado para pieles con tendencia a irritarse."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6009.jpg"
+    ]
+},
+
+{
+    nombre: "Lubricante Sensitive Skin 500 ML",
+
+    referencia: "3868",
+
+    codigo: "3868",
+
+    precio: "$65.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante íntimo Sensitive Skin con ácido hialurónico, especialmente formulado para pieles sensibles y con tendencia a irritarse.",
+
+    caracteristicas: [
+        "Presentación de 500 ML.",
+        "Con ácido hialurónico.",
+        "Ideal para pieles sensibles.",
+        "Diseñado para pieles con tendencia a irritarse."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6010.jpg"
+    ]
+},
 ];
