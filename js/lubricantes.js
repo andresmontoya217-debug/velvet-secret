@@ -303,4 +303,37 @@ window.listaProductos = [
         "../img/Productos/Lubricantes/6014.jpg"
     ]
 },
+    {
+    nombre: "Lubricante Caliente Lychee Electrizante 7 ML",
+
+    referencia: "2748",
+
+    codigo: "2748",
+
+    precio: "$10.000",
+
+    categoria: "calor",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante íntimo sabor Lychee en sachet de 7 ML, a base de agua y con efecto caliente electrizante.",
+
+    caracteristicas: [
+        "Presentación en sachet de 7 ML.",
+        "A base de agua.",
+        "Sabor Lychee.",
+        "Efecto caliente y sensación de cosquilleo.",
+        "Textura suave, no grasa y no pegajosa.",
+        "Compatible con preservativos y juguetes.",
+        "Libre de parabenos y sin azúcar.",
+        "Fácil de limpiar y no mancha."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6015.jpg"
+    ]
+},
 ];
