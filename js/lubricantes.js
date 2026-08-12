@@ -213,4 +213,33 @@ window.listaProductos = [
         "../img/Productos/Lubricantes/6011.jpg"
     ]
 },
+    {
+    nombre: "Lubricante Íntimo Neutro Sachet 7 ML",
+
+    referencia: "2432",
+
+    codigo: "2432",
+
+    precio: "$8.000",
+
+    categoria: "base-agua",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante íntimo neutro diseñado para brindar mayor comodidad y suavidad durante los momentos íntimos.",
+
+    caracteristicas: [
+        "Presentación en sachet de 7 ML.",
+        "Fórmula neutra.",
+        "Ayuda a reducir la fricción.",
+        "Puede aplicarse directamente sobre la zona deseada o sobre el preservativo."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6012.jpg"
+    ]
+},
 ];
