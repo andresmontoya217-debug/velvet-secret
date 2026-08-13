@@ -93,5 +93,69 @@
         "../img/Productos/Juguetes/5011.jpg",
         "../img/Productos/Juguetes/5012.jpg"
     ]
-},    
+}, 
+    {
+    nombre: "Panty Vibrador Juven Camtoyz",
+
+    referencia: "4076",
+
+    codigo: "4076",
+
+    precio: "$122.000",
+
+    categoria: "vibradores",
+
+    nombreCategoria: "Juguetes",
+
+    tallas: [],
+
+    descripcion:
+        "Panty vibrador Juven Camtoyz diseñado para un uso discreto bajo la ropa, con 10 modos de vibración y sistema recargable.",
+
+    caracteristicas: [
+        "10 modos de vibración.",
+        "Diseñado para uso discreto bajo la ropa.",
+        "Material de silicona y ABS.",
+        "Sistema recargable mediante USB.",
+        "Compatible con lubricantes a base de agua."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5013.jpg",
+        "../img/Productos/Juguetes/5014.jpg",
+        "../img/Productos/Juguetes/5015.jpg",
+        "../img/Productos/Juguetes/5016.jpg"
+    ]
+},
+  {
+    nombre: "Estimulador Tap Rose",
+
+    referencia: "4079",
+
+    codigo: "4079",
+
+    precio: "$86.000",
+
+    categoria: "estimuladores",
+
+    nombreCategoria: "Juguetes",
+
+    tallas: [],
+
+    descripcion:
+        "Estimulador Tap Rose con tecnología de pulsaciones diseñada para proporcionar una estimulación suave y localizada.",
+
+    caracteristicas: [
+        "7 modos de estimulación.",
+        "3 velocidades diferentes.",
+        "Tecnología de pulsaciones.",
+        "Silicona hipoalergénica suave al tacto.",
+        "Resistente a salpicaduras de agua.",
+        "Recargable."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5017.jpg"
+    ]
+},     
 ];
