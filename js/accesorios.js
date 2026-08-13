@@ -29,4 +29,34 @@ window.listaProductos = [
         "../img/Productos/Accesorios/3001.jpg"
     ]
 },
+    {
+    nombre: "Vela para Masajes con Feromonas 25 ML",
+
+    referencia: "2044",
+
+    codigo: "2044",
+
+    precio: "$38.000",
+
+    categoria: "accesorios",
+
+    nombreCategoria: "Accesorios",
+
+    tallas: [],
+
+    descripcion:
+        "Vela para masajes con feromonas en presentación pirámide de 25 ML, ideal para complementar momentos de relajación y sensualidad.",
+
+    caracteristicas: [
+        "Presentación de 25 ML.",
+        "Diseño en forma de pirámide.",
+        "Ideal para masajes.",
+        "Con feromonas.",
+        "Consultar disponibilidad."
+    ],
+
+    imagenes: [
+        "../img/Productos/Accesorios/3002.jpg"
+    ]
+},
 ];
