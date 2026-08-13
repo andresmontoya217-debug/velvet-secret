@@ -55,7 +55,7 @@
     ],
 
     imagenes: [
-        "../img/Productos/Juguetes/5005.jpg",
+        "../img/Productos/Juguetes/5009.jpg",
         "../img/Productos/Juguetes/5006.jpg",
         "../img/Productos/Juguetes/5007.jpg",
         "../img/Productos/Juguetes/5008.jpg"
