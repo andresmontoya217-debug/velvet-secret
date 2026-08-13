@@ -367,4 +367,37 @@ window.listaProductos = [
         "../img/Productos/Lubricantes/6016.jpg"
     ]
 },   
+    {
+    nombre: "Multiorgasmos Sabores 30 ML",
+
+    referencia: "1973",
+
+    codigo: "1973",
+
+    precio: "$18.000",
+
+    categoria: "sabores",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Multiorgasmos en presentación de 30 ML, disponible en una variedad de sabores para elegir.",
+
+    caracteristicas: [
+        "Presentación de 30 ML.",
+        "Disponible en sabor Cholao.",
+        "Disponible en sabor Menta.",
+        "Disponible en sabor Tequila Naranja.",
+        "Disponible en sabor Uva.",
+        "Disponible en sabor Bon Bon Bum.",
+        "Disponible en sabor Sandía.",
+        "Consultar disponibilidad del sabor deseado."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6017.jpg"
+    ]
+},
 ];
