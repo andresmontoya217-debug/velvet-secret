@@ -429,4 +429,94 @@ window.listaProductos = [
         "../img/Productos/Lubricantes/6018.jpg"
     ]
 },  
+  {
+    nombre: "Lubricante Caliente Crema de Whisky 30 ML",
+
+    referencia: "1027",
+
+    codigo: "1027",
+
+    precio: "$25.000",
+
+    categoria: "calor",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante íntimo caliente con sabor a crema de whisky, en presentación de 30 ML.",
+
+    caracteristicas: [
+        "Presentación de 30 ML.",
+        "Efecto caliente.",
+        "Sabor a crema de whisky.",
+        "Consultar disponibilidad."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6019.jpg"
+    ]
+},  
+    {
+    nombre: "Lubricante Caliente Chocolate 30 ML",
+
+    referencia: "1026",
+
+    codigo: "1026",
+
+    precio: "$25.000",
+
+    categoria: "calor",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante íntimo caliente a base de agua con sabor a chocolate, en presentación de 30 ML.",
+
+    caracteristicas: [
+        "Presentación de 30 ML.",
+        "A base de agua.",
+        "Efecto caliente.",
+        "Sabor a chocolate.",
+        "Consultar disponibilidad."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6020.jpg"
+    ]
+},
+    {
+    nombre: "Lubricante Trío 30 ML",
+
+    referencia: "3304",
+
+    codigo: "3304",
+
+    precio: "$29.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante Trío en presentación de 30 ML, producto versátil diseñado para complementar diferentes momentos íntimos.",
+
+    caracteristicas: [
+        "Presentación de 30 ML.",
+        "Ideal para masajes.",
+        "Función lubricante.",
+        "Apto para sexo oral.",
+        "Consultar disponibilidad."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6021.jpg"
+    ]
+},
+    
 ];
