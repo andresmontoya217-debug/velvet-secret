@@ -60,5 +60,38 @@
         "../img/Productos/Juguetes/5007.jpg",
         "../img/Productos/Juguetes/5008.jpg"
     ]
+},  
+  {
+    nombre: "Nexus Plug Anal con Control Camtoyz",
+
+    referencia: "4188",
+
+    codigo: "4188",
+
+    precio: "$72.000",
+
+    categoria: "plugs",
+
+    nombreCategoria: "Juguetes",
+
+    tallas: [],
+
+    descripcion:
+        "Plug anal vibrador Nexus de Camtoyz con control remoto, diseño ergonómico y 10 modos de vibración.",
+
+    caracteristicas: [
+        "10 modos de vibración.",
+        "Incluye control remoto.",
+        "Silicona premium suave y ABS.",
+        "Diseño ergonómico.",
+        "Resistencia a salpicaduras IPX5.",
+        "Recargable mediante USB."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5010.jpg",
+        "../img/Productos/Juguetes/5011.jpg",
+        "../img/Productos/Juguetes/5012.jpg"
+    ]
 },    
 ];
