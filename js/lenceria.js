@@ -51,4 +51,34 @@ window.listaProductos = [
             "../img/Productos/Lenceria/1017.jpg"
         ]
     },
+    {
+    nombre: "Conjunto Geisha",
+
+    referencia: "3547",
+
+    codigo: "3547",
+
+    precio: "$112.000",
+
+    categoria: "conjuntos",
+
+    nombreCategoria: "Conjuntos",
+
+    tallas: ["Única"],
+
+    descripcion:
+        "Conjunto Geisha de diseño sensual con transparencias, disponible en talla única.",
+
+    caracteristicas: [
+        "Diseño con transparencias.",
+        "Talla única.",
+        "Consultar disponibilidad."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lenceria/1018.jpg",
+        "../img/Productos/Lenceria/1019.jpg",
+        "../img/Productos/Lenceria/1020.jpg"
+    ]
+},
 ];
