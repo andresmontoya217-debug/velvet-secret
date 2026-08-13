@@ -66,4 +66,39 @@ window.listaProductos = [
         "../img/Productos/Pijamas/12.jpg"
     ]
 },
+    {
+    nombre: "Pijama Algodón Licrado Ref. 6129",
+
+    referencia: "6129",
+
+    codigo: "PJ107",
+
+    precio: "$75.000",
+
+    categoria: "pijamas",
+
+    nombreCategoria: "Pijamas",
+
+    tallas: ["S/M", "L/XL"],
+
+    descripcion:
+        "Pijama de nueva colección elaborada en algodón licrado grueso, compuesta por pantalón estampado y blusa tipo esqueleto.",
+
+    caracteristicas: [
+        "Algodón licrado grueso.",
+        "Pantalón estampado.",
+        "Blusa tipo esqueleto.",
+        "Tallaje compartido S/M y L/XL.",
+        "Consultar disponibilidad de talla."
+    ],
+
+    imagenes: [
+        "../img/Productos/Pijamas/13.jpg",
+        "../img/Productos/Pijamas/14.jpg",
+        "../img/Productos/Pijamas/15.jpg",
+        "../img/Productos/Pijamas/16.jpg",
+        "../img/Productos/Pijamas/17.jpg",
+        "../img/Productos/Pijamas/18.jpg"
+    ]
+},
 ];
