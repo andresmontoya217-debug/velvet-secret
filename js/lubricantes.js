@@ -400,4 +400,33 @@ window.listaProductos = [
         "../img/Productos/Lubricantes/6017.jpg"
     ]
 },
+  {
+    nombre: "Lubricante Anal Electrizante 30 ML",
+
+    referencia: "2107",
+
+    codigo: "2107",
+
+    precio: "$38.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante anal electrizante en presentación de 30 ML, diseñado para brindar lubricación y una sensación estimulante.",
+
+    caracteristicas: [
+        "Presentación de 30 ML.",
+        "Diseñado para uso anal.",
+        "Efecto electrizante.",
+        "Consultar disponibilidad."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6018.jpg"
+    ]
+},  
 ];
