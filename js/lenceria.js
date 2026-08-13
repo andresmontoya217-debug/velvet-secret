@@ -81,4 +81,35 @@ window.listaProductos = [
         "../img/Productos/Lenceria/1020.jpg"
     ]
 },
+    {
+    nombre: "Conjunto Erótico Cameron",
+
+    referencia: "Cameron",
+
+    codigo: "Cameron",
+
+    precio: "$118.000",
+
+    categoria: "conjuntos",
+
+    nombreCategoria: "Conjuntos",
+
+    tallas: ["Única"],
+
+    descripcion:
+        "Conjunto Cameron tipo lamé en talla única. ⚠️ Pocas unidades disponibles.",
+
+    caracteristicas: [
+        "Diseño tipo lamé.",
+        "Talla única.",
+        "⚠️ Pocas unidades disponibles.",
+        "Consultar disponibilidad antes de realizar el pedido."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lenceria/1021.jpg",
+        "../img/Productos/Lenceria/1022.jpg",
+        "../img/Productos/Lenceria/1023.jpg"
+    ]
+},
 ];
