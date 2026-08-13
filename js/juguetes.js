@@ -26,4 +26,39 @@
         "../img/Productos/Juguetes/5005.jpg"
     ]
 }
+  {
+    nombre: "Vibrador Asmel",
+
+    referencia: "3421",
+
+    codigo: "3421",
+
+    precio: "$79.000",
+
+    categoria: "vibradores",
+
+    nombreCategoria: "Juguetes",
+
+    tallas: [],
+
+    descripcion:
+        "Vibrador Asmel recargable de diseño ergonómico tipo huevo o bala, con control inalámbrico a distancia y acabado superior metalizado.",
+
+    caracteristicas: [
+        "12 modos de vibración con diferentes frecuencias e intensidades.",
+        "Control inalámbrico a distancia.",
+        "Diseño ergonómico tipo huevo o bala.",
+        "Silicona hipoalergénica de grado médico.",
+        "Acabado superior metalizado.",
+        "Resistente al agua, no sumergible.",
+        "Recargable."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5005.jpg",
+        "../img/Productos/Juguetes/5006.jpg",
+        "../img/Productos/Juguetes/5007.jpg",
+        "../img/Productos/Juguetes/5008.jpg"
+    ]
+},    
 ];
