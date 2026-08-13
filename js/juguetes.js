@@ -190,4 +190,37 @@
         "../img/Productos/Juguetes/5018.jpg"
     ]
 },  
+   {
+    nombre: "Dildo Vibrador Realista con Control",
+
+    referencia: "4292",
+
+    codigo: "4292",
+
+    precio: "$143.000",
+
+    categoria: "vibradores",
+
+    nombreCategoria: "Juguetes",
+
+    tallas: [],
+
+    descripcion:
+        "Dildo vibrador de diseño realista con base de ventosa, diferentes modos de vibración y movimiento, control inalámbrico y carga magnética.",
+
+    caracteristicas: [
+        "Diseño realista.",
+        "Base de ventosa.",
+        "Varios modos de vibración y movimiento.",
+        "Control inalámbrico a distancia.",
+        "Carga magnética.",
+        "Largo total: 20,3 CM.",
+        "Longitud insertable: 17 CM.",
+        "Diámetro: 4,2 CM."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5019.jpg"
+    ]
+},
 ];
