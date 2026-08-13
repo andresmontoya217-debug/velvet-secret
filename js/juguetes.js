@@ -157,5 +157,37 @@
     imagenes: [
         "../img/Productos/Juguetes/5017.jpg"
     ]
-},     
+},    
+    {
+    nombre: "Dildo Vibrador con App y Control Remoto",
+
+    referencia: "3416",
+
+    codigo: "3416",
+
+    precio: "$200.000",
+
+    categoria: "vibradores",
+
+    nombreCategoria: "Juguetes",
+
+    tallas: [],
+
+    descripcion:
+        "Vibrador multifuncional con control mediante aplicación, función de calefacción inteligente, movimiento telescópico y control remoto.",
+
+    caracteristicas: [
+        "Control mediante aplicación.",
+        "Función de calefacción inteligente.",
+        "Múltiples modos de vibración.",
+        "Diferentes velocidades telescópicas.",
+        "Movimiento telescópico de hasta 3 CM.",
+        "Incluye control remoto.",
+        "Carga magnética."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5018.jpg"
+    ]
+},  
 ];
