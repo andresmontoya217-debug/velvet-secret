@@ -25,7 +25,7 @@
         "../img/Productos/Juguetes/5004.jpg",
         "../img/Productos/Juguetes/5005.jpg"
     ]
-}
+},
   {
     nombre: "Vibrador Asmel",
 
