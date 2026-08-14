@@ -518,5 +518,157 @@ window.listaProductos = [
         "../img/Productos/Lubricantes/6021.jpg"
     ]
 },
-    
+    {
+    nombre: "Lubricante Caliente Electrizante Mango",
+
+    referencia: "1022",
+
+    codigo: "1022",
+
+    precio: "$36.000",
+
+    categoria: "calor",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante íntimo sabor mango con sensación caliente electrizante y efecto de hormigueo.",
+
+    caracteristicas: [
+        "Sensación caliente electrizante.",
+        "Presentación de 30 ML.",
+        "Efecto de hormigueo.",
+        "Sabor a mango.",
+        "Consultar disponibilidad."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6022.jpg"
+    ]
+},
+    {
+    nombre: "Multiorgasmo Electrizante 5 ML",
+
+    referencia: "1021",
+
+    codigo: "1021",
+
+    precio: "$36.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Multiorgasmo electrizante diseñado para aumentar la sensibilidad y proporcionar una intensa sensación de hormigueo.",
+
+    caracteristicas: [
+        "Presentación de 5 ML.",
+        "Sensación electrizante.",
+        "Efecto de hormigueo.",
+        "Diseñado para aumentar la sensibilidad.",
+        "Consultar disponibilidad."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6023.jpg"
+    ]
+},
+    {
+    nombre: "Lubricante Crema de Whisky Electrizante 30 ML",
+
+    referencia: "1016",
+
+    codigo: "1016",
+
+    precio: "$36.000",
+
+    categoria: "calor",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante edición especial sabor crema de whisky con sensación caliente electrizante, en presentación de 30 ML.",
+
+    caracteristicas: [
+        "Presentación de 30 ML.",
+        "Sabor a crema de whisky.",
+        "Sensación caliente electrizante.",
+        "Saborizado.",
+        "Apto para sexo oral.",
+        "Consultar disponibilidad."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6024.jpg"
+    ]
+},
+    {
+    nombre: "Lubricante Tequila Electrizante 30 ML",
+
+    referencia: "2557",
+
+    codigo: "2557",
+
+    precio: "$36.000",
+
+    categoria: "calor",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante edición especial sabor tequila con sensación caliente electrizante, en presentación de 30 ML.",
+
+    caracteristicas: [
+        "Presentación de 30 ML.",
+        "Sabor a tequila.",
+        "Sensación caliente electrizante.",
+        "Saborizado.",
+        "Apto para sexo oral.",
+        "Consultar disponibilidad."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6025.jpg"
+    ]
+},
+  {
+    nombre: "Electrizante Multiorgásmico Efecto Frío 5 ML",
+
+    referencia: "3496",
+
+    codigo: "3496",
+
+    precio: "$36.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Electrizante en gotero de 5 ML con efecto frío y sensación multiorgásmica.",
+
+    caracteristicas: [
+        "Presentación de 5 ML.",
+        "Presentación en gotero.",
+        "Efecto frío.",
+        "Efecto electrizante.",
+        "Sensación multiorgásmica.",
+        "Consultar disponibilidad."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6026.jpg"
+    ]
+},    
 ];
