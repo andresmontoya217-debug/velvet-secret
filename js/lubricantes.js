@@ -670,5 +670,32 @@ window.listaProductos = [
     imagenes: [
         "../img/Productos/Lubricantes/6026.jpg"
     ]
-},    
+},  
+    {
+    nombre: "Lubricante Íntimo Caliente Sabor Cereza",
+    nombreCategoria: "Sen Íntimo",
+    categoria: "lubricantes",
+    referencia: "4212",
+    codigo: "4212",
+    precio: "$18.000",
+    imagenes: [
+        "../img/6027.jpg"
+    ],
+
+    descripcion:
+        "Lubricante íntimo sabor cereza con fórmula a base de agua y agradable sensación de calor que se intensifica con las caricias y la estimulación.",
+
+    caracteristicas: [
+        "Sensación caliente que aumenta con la fricción",
+        "Sabor a cereza",
+        "Base agua",
+        "Compatible con preservativos",
+        "Compatible con juguetes para adultos",
+        "Apto para sexo oral, vaginal y anal",
+        "Fórmula vegana",
+        "Libre de parabenos",
+        "Fácil de limpiar",
+        "No deja sensación pegajosa"
+    ]
+},
 ];
