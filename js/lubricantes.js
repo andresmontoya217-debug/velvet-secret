@@ -677,7 +677,7 @@ window.listaProductos = [
     categoria: "lubricantes",
     referencia: "4212",
     codigo: "4212",
-    precio: "$18.000",
+    precio: "$26.000",
     imagenes: [
         "../img/6027.jpg"
     ],
@@ -698,4 +698,5 @@ window.listaProductos = [
         "No deja sensación pegajosa"
     ]
 },
+    
 ];
