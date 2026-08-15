@@ -1469,3 +1469,60 @@ con estos nombres exactos.
     }
 
 }
+/* =========================================================
+   RESULTADOS DEL BUSCADOR
+========================================================= */
+
+.buscador {
+    position: relative;
+}
+
+.resultados-busqueda {
+    position: absolute;
+    top: calc(100% + 10px);
+    right: 0;
+
+    width: 300px;
+    max-width: 90vw;
+
+    background: #111;
+    border: 1px solid #333;
+    border-radius: 10px;
+
+    display: none;
+    overflow: hidden;
+
+    z-index: 9999;
+
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.45);
+}
+
+.resultados-busqueda.activo {
+    display: block;
+}
+
+.resultado-busqueda {
+    display: block;
+
+    padding: 14px 18px;
+
+    color: #ffffff;
+    text-decoration: none;
+
+    border-bottom: 1px solid #252525;
+}
+
+.resultado-busqueda:last-child {
+    border-bottom: none;
+}
+
+.resultado-busqueda:hover {
+    background: #1d1d1d;
+}
+
+.sin-resultados {
+    margin: 0;
+    padding: 15px 18px;
+
+    color: #aaaaaa;
+}
