@@ -254,4 +254,104 @@
         "../img/Productos/Juguetes/5022.jpg"
     ]
 },   
+  {
+    nombre: "Anillo Vibrador con Lengua",
+
+    referencia: "4026",
+
+    codigo: "4026",
+
+    precio: "$18.000",
+
+    categoria: "vibradores",
+
+    nombreCategoria: "Juguetes",
+
+    tallas: [],
+
+    descripcion:
+        "Anillo vibrador con lengua elaborado en silicona, diseñado para proporcionar estimulación adicional y complementar la experiencia íntima.",
+
+    caracteristicas: [
+        "Diseño con lengua estimuladora.",
+        "1 modo de vibración.",
+        "Fabricado en silicona.",
+        "Diseñado para proporcionar puntos adicionales de estimulación.",
+        "Su diseño puede ayudar a retrasar la eyaculación."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5022.jpg",
+        "../img/Productos/Juguetes/5023.jpg"
+    ]
+},    
+     {
+    nombre: "Anillo Vibrador Multi Points",
+
+    referencia: "4200",
+
+    codigo: "4200",
+
+    precio: "$50.000",
+
+    categoria: "vibradores",
+
+    nombreCategoria: "Juguetes",
+
+    tallas: [],
+
+    descripcion:
+        "Anillo vibrador Multi Points elaborado en silicona suave, con diferentes modos e intensidades de vibración y diseño texturizado.",
+
+    caracteristicas: [
+        "7 modos de vibración.",
+        "3 niveles de intensidad ajustables.",
+        "Nódulos texturizados para estimulación externa.",
+        "Recargable vía USB.",
+        "Resistente a salpicaduras de agua.",
+        "Silicona suave libre de ftalatos.",
+        "Largo: 5 cm.",
+        "Ancho: 3,5 cm.",
+        "Diámetro: 2,5 cm.",
+        "Color negro."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5024.jpg"
+    ]
+}, 
+     {
+    nombre: "Anillo Vibrador Devil",
+
+    referencia: "4201",
+
+    codigo: "4201",
+
+    precio: "$36.000",
+
+    categoria: "vibradores",
+
+    nombreCategoria: "Juguetes",
+
+    tallas: [],
+
+    descripcion:
+        "Anillo vibrador Devil con bala metálica y anillo de silicona, diseñado para proporcionar estimulación vibratoria durante la experiencia íntima.",
+
+    caracteristicas: [
+        "Varios modos de vibración.",
+        "Bala metálica.",
+        "Anillo fabricado en silicona.",
+        "Diseñado para proporcionar estimulación adicional.",
+        "Puede ayudar a mantener la firmeza al ejercer presión en la base.",
+        "Puede ayudar a retardar la eyaculación.",
+        "Uso recomendado durante un máximo de 20 a 30 minutos.",
+        "Funciona con baterías.",
+        "Baterías incluidas."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5025.jpg"
+    ]
+}, 
 ];
