@@ -146,12 +146,14 @@ document.addEventListener("DOMContentLoaded", function () {
             `;
         }
 
-        if (modalPrecio) {
-            modalPrecio.textContent = producto.precio;
-        }
+       if (modalPrecio) {
+    modalPrecio.textContent = producto.precio;
+}
 
-        crearInformacionDeTallas(producto);
-        crearGaleriaDeImagenes(producto);
+crearDescripcionProducto(producto);
+crearCaracteristicasProducto(producto);
+crearInformacionDeTallas(producto);
+crearGaleriaDeImagenes(producto);
 
         modal.classList.add("abierto");
 
@@ -159,7 +161,93 @@ document.addEventListener("DOMContentLoaded", function () {
 
     }
 
+function crearDescripcionProducto(producto) {
 
+    if (!modalPrecio) {
+        return;
+    }
+
+    let contenedorDescripcion =
+        document.getElementById("modalDescripcion");
+
+    if (!contenedorDescripcion) {
+
+        contenedorDescripcion = document.createElement("div");
+
+        contenedorDescripcion.id = "modalDescripcion";
+        contenedorDescripcion.classList.add("modal-descripcion");
+
+        modalPrecio.insertAdjacentElement(
+            "afterend",
+            contenedorDescripcion
+        );
+    }
+
+    if (!producto.descripcion) {
+        contenedorDescripcion.innerHTML = "";
+        contenedorDescripcion.style.display = "none";
+        return;
+    }
+
+    contenedorDescripcion.style.display = "block";
+
+    contenedorDescripcion.innerHTML = `
+        <h3>Descripción</h3>
+        <p>${producto.descripcion}</p>
+    `;
+}
+
+
+function crearCaracteristicasProducto(producto) {
+
+    let contenedorDescripcion =
+        document.getElementById("modalDescripcion");
+
+    if (!contenedorDescripcion) {
+        return;
+    }
+
+    let contenedorCaracteristicas =
+        document.getElementById("modalCaracteristicas");
+
+    if (!contenedorCaracteristicas) {
+
+        contenedorCaracteristicas = document.createElement("div");
+
+        contenedorCaracteristicas.id = "modalCaracteristicas";
+        contenedorCaracteristicas.classList.add("modal-caracteristicas");
+
+        contenedorDescripcion.insertAdjacentElement(
+            "afterend",
+            contenedorCaracteristicas
+        );
+    }
+
+    if (
+        !producto.caracteristicas ||
+        producto.caracteristicas.length === 0
+    ) {
+        contenedorCaracteristicas.innerHTML = "";
+        contenedorCaracteristicas.style.display = "none";
+        return;
+    }
+
+    contenedorCaracteristicas.style.display = "block";
+
+    contenedorCaracteristicas.innerHTML = `
+        <h3>Características</h3>
+
+        <ul>
+            ${producto.caracteristicas
+                .map(function (caracteristica) {
+                    return `
+                        <li>${caracteristica}</li>
+                    `;
+                })
+                .join("")}
+        </ul>
+    `;
+}
     /* =====================================================
        MOSTRAR LAS TALLAS EN EL MODAL
     ===================================================== */
