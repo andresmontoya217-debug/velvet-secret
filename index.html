@@ -83,13 +83,23 @@
 
         <div class="buscador">
 
-            <input
-                type="search"
-                placeholder="Buscar productos..."
-                aria-label="Buscar productos"
-            >
+    <input
+        type="search"
+        id="buscadorProductos"
+        placeholder="Buscar productos..."
+        aria-label="Buscar productos"
+        autocomplete="off"
+    >
 
-        </div>
+    <div
+        id="resultadosBusqueda"
+        class="resultados-busqueda"
+    >
+    </div>
+
+</div>
+
+        
 
     </header>
 
@@ -348,6 +358,8 @@
         </p>
 
     </footer>
+    
+    <script src="js/buscador.js"></script>
 
 </body>
 
