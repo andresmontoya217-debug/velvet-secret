@@ -223,4 +223,35 @@
         "../img/Productos/Juguetes/5019.jpg"
     ]
 },
+   {
+    nombre: "Anillo Vibrador Doble",
+
+    referencia: "3602",
+
+    codigo: "3602",
+
+    precio: "$12.000",
+
+    categoria: "vibradores",
+
+    nombreCategoria: "Juguetes",
+
+    tallas: [],
+
+    descripcion:
+        "Anillo vibrador doble con estimulación adicional para testículos, diseñado para brindar un ajuste cómodo y complementar la experiencia íntima.",
+
+    caracteristicas: [
+        "Diseño de doble estimulación.",
+        "Estimulación adicional para testículos.",
+        "Vibración intensa.",
+        "Ajuste cómodo.",
+        "Diseñado para prolongar la experiencia."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5021.jpg",
+        "../img/Productos/Juguetes/5022.jpg"
+    ]
+},   
 ];
