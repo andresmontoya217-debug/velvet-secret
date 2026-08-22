@@ -1060,4 +1060,240 @@ window.listaProductos = [
         "../img/Productos/Lubricantes/6039.jpg"
     ]
 },
+   {
+    nombre: "Multiorgasmos Euforia Sen Íntimo 7 ML",
+
+    referencia: "2743",
+
+    codigo: "2743",
+
+    precio: "$10.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Multiorgasmos Euforia de Sen Íntimo en sachet de 7 ML, formulado con extracto de Cannabis Sativa para complementar la lubricación y aumentar las sensaciones durante la intimidad.",
+
+    caracteristicas: [
+        "Presentación en sachet de 7 ML.",
+        "Contiene extracto de Cannabis Sativa.",
+        "Favorece una mayor lubricación.",
+        "Diseñado para intensificar las sensaciones.",
+        "Apto para sexo oral y penetración.",
+        "Formato práctico y fácil de llevar."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6040.jpg"
+    ]
+}, 
+    {
+    nombre: "Lubricante Euforia con Extracto de Cannabis",
+
+    referencia: "1006",
+
+    codigo: "1006",
+
+    precio: "$35.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante Euforia con extracto de cannabis, diseñado para mejorar la lubricación y proporcionar sensaciones más intensas durante la intimidad.",
+
+    caracteristicas: [
+        "Contiene extracto de cannabis.",
+        "Favorece una mayor lubricación.",
+        "Diseñado para intensificar las sensaciones.",
+        "Fórmula Euforia."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6041.jpg"
+    ]
+},
+    {
+    nombre: "Lubricante Neutro Aloe Vera 1000 ML",
+
+    referencia: "2788",
+
+    codigo: "2788",
+
+    precio: "$83.000",
+
+    categoria: "neutros",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: ["1000 ML"],
+
+    descripcion:
+        "Lubricante íntimo neutro a base de aloe vera, en presentación de 1000 ML.",
+
+    caracteristicas: [
+        "Presentación de 1000 ML.",
+        "Fórmula neutra.",
+        "A base de aloe vera."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6042.jpg"
+    ]
+},
+
+{
+    nombre: "Lubricante Neutro Aloe Vera 500 ML",
+
+    referencia: "2787",
+
+    codigo: "2787",
+
+    precio: "$52.000",
+
+    categoria: "neutros",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: ["500 ML"],
+
+    descripcion:
+        "Lubricante íntimo neutro a base de aloe vera, en presentación de 500 ML.",
+
+    caracteristicas: [
+        "Presentación de 500 ML.",
+        "Fórmula neutra.",
+        "A base de aloe vera."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6042.jpg"
+    ]
+},
+
+{
+    nombre: "Lubricante Neutro Aloe Vera 120 ML",
+
+    referencia: "2785",
+
+    codigo: "2785",
+
+    precio: "$28.000",
+
+    categoria: "neutros",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: ["120 ML"],
+
+    descripcion:
+        "Lubricante íntimo neutro a base de aloe vera, en presentación de 120 ML.",
+
+    caracteristicas: [
+        "Presentación de 120 ML.",
+        "Fórmula neutra.",
+        "A base de aloe vera."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6042.jpg"
+    ]
+},
+
+{
+    nombre: "Lubricante Neutro Aloe Vera 60 ML",
+
+    referencia: "2784",
+
+    codigo: "2784",
+
+    precio: "$18.000",
+
+    categoria: "neutros",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: ["60 ML"],
+
+    descripcion:
+        "Lubricante íntimo neutro a base de aloe vera, en presentación de 60 ML.",
+
+    caracteristicas: [
+        "Presentación de 60 ML.",
+        "Fórmula neutra.",
+        "A base de aloe vera."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6042.jpg"
+    ]
+},
+
+{
+    nombre: "Lubricante Neutro Aloe Vera 30 ML",
+
+    referencia: "3450",
+
+    codigo: "3450",
+
+    precio: "$15.000",
+
+    categoria: "neutros",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: ["30 ML"],
+
+    descripcion:
+        "Lubricante íntimo neutro a base de aloe vera, en presentación de 30 ML.",
+
+    caracteristicas: [
+        "Presentación de 30 ML.",
+        "Fórmula neutra.",
+        "A base de aloe vera."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6042.jpg"
+    ]
+},
+    {
+    nombre: "Lubricante Íntimo Neutro 250 ML",
+
+    referencia: "2411",
+
+    codigo: "2411",
+
+    precio: "$35.000",
+
+    categoria: "neutros",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: ["250 ML"],
+
+    descripcion:
+        "Lubricante íntimo neutro a base de agua, con pH balanceado y formulado para proporcionar hidratación y aliviar la resequedad íntima.",
+
+    caracteristicas: [
+        "Presentación de 250 ML.",
+        "A base de agua.",
+        "Fórmula neutra.",
+        "pH balanceado.",
+        "Ayuda a hidratar y aliviar la resequedad íntima.",
+        "Textura suave y cómoda.",
+        "Puede utilizarse antes del contacto íntimo o cuando sea necesario."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6043.jpg"
+    ]
+},
 ];
