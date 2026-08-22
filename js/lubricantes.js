@@ -1001,4 +1001,33 @@ window.listaProductos = [
         "../img/Productos/Lubricantes/6037.jpg"
     ]
 },
+    {
+    nombre: "Lubricante Caliente Menta 30 ML",
+
+    referencia: "1878",
+
+    codigo: "1878",
+
+    precio: "$25.000",
+
+    categoria: "calor",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante íntimo caliente a base de agua con sabor a menta, en presentación de 30 ML.",
+
+    caracteristicas: [
+        "Presentación de 30 ML.",
+        "A base de agua.",
+        "Efecto caliente.",
+        "Sabor a menta."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6028.jpg"
+    ]
+},
 ];
