@@ -1030,4 +1030,34 @@ window.listaProductos = [
         "../img/Productos/Lubricantes/6038.jpg"
     ]
 },
+    {
+    nombre: "Lubricante Caliente Electrizante Lychee",
+
+    referencia: "1775",
+
+    codigo: "1775",
+
+    precio: "$36.000",
+
+    categoria: "calor",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante íntimo sabor Lychee con sensación caliente electrizante y efecto de hormigueo.",
+
+    caracteristicas: [
+        "Efecto caliente.",
+        "Sensación electrizante.",
+        "Efecto de hormigueo.",
+        "Sabor a Lychee.",
+        "Saborizado."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6039.jpg"
+    ]
+},
 ];
