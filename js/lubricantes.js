@@ -707,7 +707,7 @@ window.listaProductos = [
 
     codigo: "1880",
 
-    precio: "$10.000",
+    precio: "$15.000",
 
     categoria: "especiales",
 
@@ -730,6 +730,275 @@ window.listaProductos = [
 
     imagenes: [
         "../img/Productos/Lubricantes/6028.jpg"
+    ]
+},
+    {
+    nombre: "Lubricante Anal 4 ML",
+
+    referencia: "1778",
+
+    codigo: "1778",
+
+    precio: "$15.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante anal a base de agua en presentación de 4 ML, diseñado para proporcionar lubricación y mayor comodidad.",
+
+    caracteristicas: [
+        "Presentación de 4 ML.",
+        "A base de agua.",
+        "Diseñado para uso anal.",
+        "Presentación práctica y discreta."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6029.jpg"
+    ]
+},
+    {
+    nombre: "Lubricante Estimulante Multi - O",
+
+    referencia: "3737",
+
+    codigo: "3737",
+
+    precio: "$32.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante estimulante Multi-O de 30 ML, con fórmula a base de agua e ingredientes botánicos como jengibre, ginkgo biloba y ginseng.",
+
+    caracteristicas: [
+        "Presentación de 30 ML.",
+        "Fórmula a base de agua.",
+        "Contiene extractos de jengibre.",
+        "Contiene ginkgo biloba.",
+        "Contiene ginseng.",
+        "Ayuda a mantener la hidratación.",
+        "Compatible con materiales sensibles como el látex."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6030.jpg"
+    ]
+},
+{
+    nombre: "Lubricante Híbrido 500 ML",
+
+    referencia: "2412",
+
+    codigo: "2412",
+
+    precio: "$69.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante híbrido de 500 ML, formulado a base de agua y silicona. Ideal para utilizar con juguetes sexuales.",
+
+    caracteristicas: [
+        "Presentación de 500 ML.",
+        "Fórmula a base de agua y silicona.",
+        "Ideal para usar con juguetes sexuales.",
+        "Lubricación suave y duradera."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6031.jpg"
+    ]
+},
+{
+    nombre: "Lubricante Neutro con Ácido Hialurónico",
+
+    referencia: "4150",
+
+    codigo: "4150",
+
+    precio: "$55.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante íntimo neutro con ácido hialurónico y aloe vera, formulado para ayudar a combatir la resequedad. Su textura ligera y suave proporciona una sensación cómoda durante su uso.",
+
+    caracteristicas: [
+        "Contiene ácido hialurónico.",
+        "Contiene aloe vera.",
+        "Ayuda a combatir la resequedad.",
+        "Textura ligera y suave.",
+        "Fórmula neutra.",
+        "Diseñado para respetar el pH íntimo."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6032.jpg"
+    ]
+},
+{
+    nombre: "Lubricante Caliente Sabor Fruta de la Pasión",
+
+    referencia: "4207",
+
+    codigo: "4207",
+
+    precio: "$26.000",
+
+    categoria: "calor",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante íntimo caliente con delicioso sabor a fruta de la pasión (maracuyá) y efecto cálido que intensifica las sensaciones.",
+
+    caracteristicas: [
+        "Sabor a fruta de la pasión (maracuyá).",
+        "Efecto cálido.",
+        "Ayuda a intensificar las sensaciones.",
+        "Presentación ideal para momentos íntimos."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6033.jpg"
+    ]
+},
+{
+    nombre: "Lubricante Caliente Cappuccino 30 ML",
+
+    referencia: "3966",
+
+    codigo: "3966",
+
+    precio: "$25.000",
+
+    categoria: "calor",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: ["30 ML"],
+
+    descripcion:
+        "Lubricante íntimo caliente sabor cappuccino, en presentación de 30 ML, diseñado para proporcionar una agradable sensación de calor.",
+
+    caracteristicas: [
+        "Presentación de 30 ML.",
+        "Sabor cappuccino.",
+        "Efecto calor."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6034.jpg"
+    ]
+},
+{
+    nombre: "Lubricante Frío y Calor",
+
+    referencia: "1018",
+
+    codigo: "1018",
+
+    precio: "$35.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante íntimo frío y calor diseñado para proporcionar cambios sensoriales de temperatura y aumentar la sensibilidad durante la experiencia íntima.",
+
+    caracteristicas: [
+        "Efecto frío.",
+        "Efecto calor.",
+        "Cambios sensoriales de temperatura.",
+        "Diseñado para aumentar la sensibilidad.",
+        "Sensación estimulante."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6035.jpg"
+    ]
+},
+{
+    nombre: "Lubricante Íntimo a Base de Silicona",
+
+    referencia: "1019",
+
+    codigo: "1019",
+
+    precio: "$36.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante íntimo a base de silicona y resistente al agua, diseñado especialmente para mantener la lubricación en ambientes húmedos.",
+
+    caracteristicas: [
+        "Fórmula a base de silicona.",
+        "Resistente al agua.",
+        "Ideal para uso en ducha, piscina y jacuzzi.",
+        "Lubricación de larga duración.",
+        "Adecuado para masturbación y sexo anal."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6036.jpg"
+    ]
+},
+{
+    nombre: "Lubricante Frequency Líquido Vibrador 15 ML",
+
+    referencia: "3528",
+
+    codigo: "3528",
+
+    precio: "$35.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante Frequency en textura gel con sabor a frutos amarillos y una agradable sensación de hormigueo, en presentación práctica de 15 ML.",
+
+    caracteristicas: [
+        "Presentación de 15 ML.",
+        "Efecto líquido vibrador.",
+        "Sensación de hormigueo.",
+        "Sabor a frutos amarillos.",
+        "Textura en gel.",
+        "Presentación práctica y fácil de llevar."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6037.jpg"
     ]
 },
 ];
