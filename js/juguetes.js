@@ -354,4 +354,339 @@
         "../img/Productos/Juguetes/5025.jpg"
     ]
 }, 
+  {
+    nombre: "Masturbador Troy",
+
+    referencia: "4346",
+
+    codigo: "4346",
+
+    precio: "$72.000",
+
+    categoria: "masturbadores",
+
+    nombreCategoria: "Juguetes sexuales",
+
+    tallas: [],
+
+    descripcion:
+        "Masturbador Troy con diseño de doble entrada e interior texturizado, diseñado para ofrecer diferentes sensaciones durante su uso.",
+
+    caracteristicas: [
+        "Interior texturizado.",
+        "Diseño de doble entrada.",
+        "Largo total: 9,5 cm.",
+        "Diámetro: 8,7 cm.",
+        "Elaborado en ABS, PC y TPE."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5026.jpg",
+        "../img/Productos/Juguetes/5027.jpg"
+    ]
+},  
+   {
+    nombre: "Masturbador Torso Mujer",
+
+    referencia: "3345",
+
+    codigo: "3345",
+
+    precio: "$179.000",
+
+    categoria: "masturbadores",
+
+    nombreCategoria: "Juguetes sexuales",
+
+    tallas: [],
+
+    descripcion:
+        "Masturbador en forma de torso femenino, elaborado en silicona de textura suave y con una altura total de 24 cm.",
+
+    caracteristicas: [
+        "Diseño en forma de torso femenino.",
+        "Altura: 24 cm.",
+        "Elaborado en silicona.",
+        "Textura suave."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5028.jpg"
+    ]
+}, 
+    {
+    nombre: "Masturbador con Senos y Vagina",
+
+    referencia: "3375",
+
+    codigo: "3375",
+
+    precio: "$108.000",
+
+    categoria: "masturbadores",
+
+    nombreCategoria: "Juguetes sexuales",
+
+    tallas: [],
+
+    descripcion:
+        "Masturbador elaborado en silicona suave al tacto, con diseño de torso femenino.",
+
+    caracteristicas: [
+        "Elaborado en silicona.",
+        "Textura súper suave al tacto.",
+        "Ancho: 25 cm.",
+        "Alto: 10 cm."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5029.jpg"
+    ]
+},  
+    {
+    nombre: "Bolas Chinas Anal y Vaginal 24 CM",
+
+    referencia: "2961",
+
+    codigo: "2961",
+
+    precio: "$19.000",
+
+    categoria: "bolas",
+
+    nombreCategoria: "Juguetes sexuales",
+
+    tallas: [],
+
+    descripcion:
+        "Bolas chinas diseñadas para estimulación íntima, con una longitud penetrable de 24 cm.",
+
+    caracteristicas: [
+        "Longitud penetrable: 24 cm.",
+        "Diseñadas para estimulación anal y vaginal.",
+        "Diseño de bolas consecutivas."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5030.jpg"
+    ]
+},  
+      {
+    nombre: "Masturbador Vagina y Senos",
+
+    referencia: "3519",
+
+    codigo: "3519",
+
+    precio: "$36.000",
+
+    categoria: "masturbadores",
+
+    nombreCategoria: "Juguetes sexuales",
+
+    tallas: [],
+
+    descripcion:
+        "Masturbador compacto de textura suave, diseñado en un tamaño pequeño y discreto para facilitar su almacenamiento y transporte.",
+
+    caracteristicas: [
+        "Diseño compacto.",
+        "Textura súper suave.",
+        "Tamaño pequeño y discreto.",
+        "Fácil de almacenar y transportar."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5031.jpg"
+    ]
+},
+    {
+    nombre: "Funda Masturbadora",
+
+    referencia: "3593",
+
+    codigo: "3593",
+
+    precio: "$22.000",
+
+    categoria: "masturbadores",
+
+    nombreCategoria: "Juguetes sexuales",
+
+    tallas: [],
+
+    descripcion:
+        "Funda masturbadora con textura y puntos de estimulación en su interior.",
+
+    caracteristicas: [
+        "Diseño tipo funda.",
+        "Interior con puntos de estimulación.",
+        "Textura diseñada para aumentar la estimulación."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5032.jpg",
+        "../img/Productos/Juguetes/5033.jpg"
+    ]
+},  
+    {
+    nombre: "O-Bullet Bala Vibradora Recargable Camtoyz",
+
+    referencia: "4157",
+
+    codigo: "4157",
+
+    precio: "$36.000",
+
+    categoria: "vibradores",
+
+    nombreCategoria: "Juguetes sexuales",
+
+    tallas: [],
+
+    descripcion:
+        "Bala vibradora recargable Camtoyz de diseño compacto, con múltiples modos de vibración y anillo ergonómico para facilitar el agarre.",
+
+    caracteristicas: [
+        "10 modos de vibración.",
+        "Estimulación focalizada.",
+        "Anillo ergonómico para mejor agarre.",
+        "Resistente al agua IPX5.",
+        "Recargable.",
+        "Diseño compacto y fácil de usar."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5034.jpg"
+    ]
+},  
+      {
+    nombre: "Mini Vibrador Rocco Camtoyz",
+
+    referencia: "4103",
+
+    codigo: "4103",
+
+    precio: "$28.000",
+
+    categoria: "vibradores",
+
+    nombreCategoria: "Juguetes sexuales",
+
+    tallas: [],
+
+    descripcion:
+        "Mini vibrador Rocco Camtoyz de diseño compacto y discreto, fácil de usar y transportar.",
+
+    caracteristicas: [
+        "Tamaño compacto.",
+        "Vibración potente.",
+        "Impermeable.",
+        "Apto para uso en la ducha.",
+        "Funciona con una pila AA.",
+        "Diseño discreto y fácil de transportar."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5035.jpg"
+    ]
+},
+      {
+    nombre: "Fizz Lovense Vibrador Clitorial de Doble Cabeza",
+
+    referencia: "4349",
+
+    codigo: "4349",
+
+    precio: "$729.000",
+
+    categoria: "vibradores",
+
+    nombreCategoria: "Juguetes sexuales",
+
+    tallas: [],
+
+    descripcion:
+        "Vibrador clitorial Lovense Fizz de doble cabeza que combina dos tipos de estimulación en un diseño compacto y personalizable.",
+
+    caracteristicas: [
+        "Diseño de doble cabeza.",
+        "Una cabeza con estimulación por succión.",
+        "Una cabeza con golpeteo rítmico.",
+        "Dos tipos de estimulación en un solo dispositivo.",
+        "Tecnología TwinAir® de Lovense.",
+        "Utiliza ondas de aire para generar diferentes sensaciones.",
+        "Diseño compacto.",
+        "Estimulación personalizable."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5036.jpg"
+    ]
+},
+      {
+    nombre: "Bala Vibradora Kena",
+
+    referencia: "4178",
+
+    codigo: "4178",
+
+    precio: "$43.000",
+
+    categoria: "vibradores",
+
+    nombreCategoria: "Juguetes sexuales",
+
+    tallas: [],
+
+    descripcion:
+        "Bala vibradora Kena de diseño compacto y discreto, elaborada en silicona y ABS, con dos modos de vibración.",
+
+    caracteristicas: [
+        "Elaborada en silicona y ABS.",
+        "2 modos de vibración.",
+        "Funciona con batería AAA.",
+        "Resistencia al agua IPX6.",
+        "Ideal para usar en la ducha.",
+        "Diseño compacto y discreto."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5037.jpg"
+    ]
+},
+   {
+    nombre: "Lotus G-Spot Vibrador con Bala Camtoyz",
+
+    referencia: "4078",
+
+    codigo: "4078",
+
+    precio: "$143.000",
+
+    categoria: "vibradores",
+
+    nombreCategoria: "Juguetes sexuales",
+
+    tallas: [],
+
+    descripcion:
+        "Vibrador Lotus G-Spot de Camtoyz con doble sistema de estimulación, combinando vibración y succión pulsante en un diseño ergonómico.",
+
+    caracteristicas: [
+        "Doble estimulación.",
+        "7 modos de vibración.",
+        "3 velocidades.",
+        "Succión pulsante.",
+        "Diseño ergonómico.",
+        "Material suave y fácil de limpiar.",
+        "Recargable.",
+        "Resistente al agua.",
+        "Diseño compacto y discreto."
+    ],
+
+    imagenes: [
+        "../img/Productos/Juguetes/5038.jpg"
+    ]
+},   
 ];
