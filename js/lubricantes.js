@@ -700,4 +700,36 @@ window.listaProductos = [
         "No deja sensación pegajosa"
     ]
 },
+    {
+    nombre: "Pocket Pleasure – Lubricante Íntimo Delay",
+
+    referencia: "1880",
+
+    codigo: "1880",
+
+    precio: "$10.000",
+
+    categoria: "especiales",
+
+    nombreCategoria: "Lubricantes",
+
+    tallas: [],
+
+    descripcion:
+        "Lubricante íntimo Pocket Pleasure con efecto retardante (Delay), en una presentación práctica y discreta de 4.5 ml. Diseñado para ayudar a prolongar el momento íntimo.",
+
+    caracteristicas: [
+        "Presentación de 4.5 ML.",
+        "Efecto retardante (Delay).",
+        "Ayuda a prolongar el momento íntimo.",
+        "Presentación práctica y discreta.",
+        "Textura suave y fácil aplicación.",
+        "Ideal para llevar en el bolsillo.",
+        "Uso individual."
+    ],
+
+    imagenes: [
+        "../img/Productos/Lubricantes/6028.jpg"
+    ]
+},
 ];
