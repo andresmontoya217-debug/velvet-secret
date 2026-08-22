@@ -1027,7 +1027,7 @@ window.listaProductos = [
     ],
 
     imagenes: [
-        "../img/Productos/Lubricantes/6028.jpg"
+        "../img/Productos/Lubricantes/6038.jpg"
     ]
 },
 ];
